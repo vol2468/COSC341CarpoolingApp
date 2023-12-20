@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/layout_complete_rider.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/layout/complete_rider.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/layout_message.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/layout/message.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/drawable_plus.png.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/drawable/plus.png"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/layout_ride_offer_menu.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/layout/ride_offer_menu.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/layout_ride_offer.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/layout/ride_offer.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/drawable_icon.png.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/drawable/icon.png"
+    },
+    {
+        "merged": "com.example.group_1_project_step_4.app-merged_res-35:/layout_account.xml.flat",
+        "source": "com.example.group_1_project_step_4.app-main-37:/layout/account.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/layout_main.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/layout/main.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/drawable_msg.png.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/drawable/msg.png"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/drawable_header.png.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/drawable/header.png"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/layout_account.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/layout/account.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/layout_order_summary.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/layout/order_summary.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/layout_request.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/layout/request.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/layout_message_text.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/layout/message_text.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/layout_complete_offer.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/layout/complete_offer.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/layout_account_payment_info.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/layout/account_payment_info.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/layout_ride_request.xml.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/layout/ride_request.xml"
+    },
+    {
+        "merged": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-merged_res-35:/drawable_textbox.png.flat",
+        "source": "/Users/taiihirano/.gradle/daemon/8.0/com.example.group_1_project_step_4.app-main-37:/drawable/textbox.png"
+    }
+]
