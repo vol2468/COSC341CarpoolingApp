@@ -1,0 +1,3 @@
+com.example.group_1_project_step_4.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
