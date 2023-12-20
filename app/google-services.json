@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877472294165",
+    "project_id": "cosc-341-project-4e1b9",
+    "storage_bucket": "cosc-341-project-4e1b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877472294165:android:1c0a967db4a76e5055751c",
+        "android_client_info": {
+          "package_name": "com.example.group_1_project_step_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRX4O_ppbJkA256dlcQzDpKUDIS0xVuMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
